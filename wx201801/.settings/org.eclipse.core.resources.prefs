@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//WebRoot/WEB-INF/view/fileupload.jsp=UTF-8
+encoding//WebRoot/WEB-INF/view/login.jsp=UTF-8
+encoding//WebRoot/WEB-INF/view/shopping/orderdetail.jsp=UTF-8
+encoding//WebRoot/WEB-INF/view/shopping/shoppingcart.jsp=UTF-8
+encoding//src/main/java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/resources/alipayinfo.properties=UTF-8
+encoding//src/main/resources/config.properties=UTF-8
+encoding//src/main/resources/log4j.properties=UTF-8
+encoding//src/test/java=UTF-8
+encoding//src/test/resources=UTF-8
+encoding/<project>=UTF-8
