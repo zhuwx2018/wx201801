@@ -7,7 +7,6 @@ package com.wx.common;
  * @date 2018年2月23日
  */
 public class Const {
-	
 	public static final String CURRENT_USER = "CURRENT_USER";
 	
 	public interface Cart{
